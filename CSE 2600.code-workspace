@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "CSE 2600",
+			"path": ".."
+		},
+		{
+			"name": "book_images",
+			"path": "../../Downloads/ISLP_labs-main/book_images"
+		}
+	],
+	"settings": {}
+}
